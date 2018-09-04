@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 """
 	source : https://en.wiktionary.org/wiki/Appendix:1000_Japanese_basic_words
 """
