@@ -713,3 +713,4 @@ japan_word  = choice[0]
 explanation = choice[1]
 
 notify(japan_word, explanation)
+
